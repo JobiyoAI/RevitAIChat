@@ -12,6 +12,8 @@ App web con agente IA que se conecta a Revit a través de MCP.
 
 ---
 
+![alt text](images/image.png)
+
 ## Requisitos previos
 
 - Python 3.11+ con `uv` instalado
